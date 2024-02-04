@@ -1,5 +1,9 @@
 # Litewave Wallet
-StupidWallet client with CLI
+<p align="center">
+  <img src="https://github.com/lolhie3/litewave-wallet/assets/96627041/fe214be6-423c-4bb4-b01a-d692bb851343">
+  <h3 align="center">Litewave</h3>
+  <p align="center">StupidWallet client with CLI</p>
+</p>
 
 ## Getting started
 First, create or import your wallet:
