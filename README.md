@@ -7,7 +7,7 @@
 
 ## Getting started
 First, create or import your wallet:
-`create` or `import <walletfile.sw>`
+`wallet create` or `wallet import <walletfile.sw>`
 
 After `creat`ing, your wallet's private key will be stored in the file `.\main.sw` 
 and will be imported every time you start Litewave Wallet.
@@ -15,18 +15,18 @@ and will be imported every time you start Litewave Wallet.
 When `import`ing, wallet will be imported only for one time (you'll have to import it everytime, or use the `main.sw` file)
 ## Usage
 Basic commands are:
-`info` - show currently imported wallet info
+`wallet info` - show currently imported wallet info
 
 ```
-> info
+> wallet info
 Address: SW_0xc0000000000
 Is frozen: False
 Boost: True
 ```
-`balance` - show all of the coins you have
+`wallet balance` - show all of the coins you have
 
 ```
-> balance
+> wallet balance
 wavacoin: 0.0 WAV
 ```
 
